@@ -20,6 +20,9 @@ La aplicación web está desarrollada utilizando Streamlit y ofrece las siguient
 3. Instala las dependencias utilizando `pip install -r requirements.txt`.
 4. Ejecuta la aplicación usando `streamlit run app.py`.
 
+## Render Dashboard
+https://dashboard.render.com/
+
 ## Estructura del Proyecto
 - **notebooks:** Contiene el cuaderno de Jupyter utilizado para el análisis exploratorio de datos.
 - **streamlit:** Directorio que almacena la configuración de Streamlit.
