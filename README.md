@@ -21,7 +21,7 @@ La aplicación web está desarrollada utilizando Streamlit y ofrece las siguient
 4. Ejecuta la aplicación usando `streamlit run app.py`.
 
 ## Render Dashboard
-https://dashboard.render.com/
+https://proyecto5-app.onrender.com
 
 ## Estructura del Proyecto
 - **notebooks:** Contiene el cuaderno de Jupyter utilizado para el análisis exploratorio de datos.
